@@ -1,0 +1,15 @@
+body {
+    background-color:yellow;
+}
+
+#interview {
+    background-color: green;
+}
+
+.tile {
+    background-color: red;
+    width: 100px;
+    border: 20px solid cyan;
+    padding-left: 100px;
+    margin: 50px;
+}

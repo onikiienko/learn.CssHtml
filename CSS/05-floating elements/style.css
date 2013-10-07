@@ -1,0 +1,19 @@
+body {
+    background-color:yellow;
+}
+
+#interview {
+    background-color: green;
+}
+
+.tile {
+    width: 170px;
+    height: 140px;
+    margin: 5px;
+    padding: 20px;
+    float: left;
+}
+
+#main-container {
+    width: 900px;
+}

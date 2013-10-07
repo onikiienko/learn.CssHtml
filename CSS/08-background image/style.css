@@ -1,0 +1,45 @@
+body {
+    background-color:#25272F;
+}
+
+.tile {
+    width: 170px;
+    height: 140px;
+    margin: 5px;
+    padding: 20px;
+    float: left;    
+}
+
+.tile-double {
+    width: 390px;
+    height: 140px;
+    margin: 5px;
+    padding: 20px;
+    float: left;
+}
+
+.green {
+    background-color:#13B2A3;
+}
+
+.red {
+    background-color:#F16F51;
+}
+
+.yellow {
+    background-color:#FDB45C;        
+}
+
+.lightgrey {
+    background-color:#F6F6F6;
+    color: black;
+}
+
+.city-image {
+    background-image:url("santiago.png");
+}
+
+#main-container {
+    max-width: 900px;
+    margin: 0 auto;
+}
