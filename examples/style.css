@@ -1,0 +1,111 @@
+body {
+	background-color: #25272F;
+	font-family: helvetica;
+	font-weight: bold;
+	color: white;
+}
+
+h2 {
+	font-size: 18pt;
+	margin-bottom: 15px;
+}
+
+.tile {
+	width: 170px;
+	height: 140px;
+	padding: 20px;
+	margin: 5px;
+	float: left;
+	background-color: blue;
+}
+
+.double {
+	width: 390px;
+	height: 140px;
+	padding: 20px;
+	margin: 5px;
+	float: left;
+	background-color: blue;
+}
+
+#main-cointainer {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.green{
+	background-color: #13B2A3;
+}
+
+.red {
+	background-color: #F16F51;
+}
+
+.yellow {
+	background-color: #FDB45C;
+}
+
+.lightgrey 	{
+	background-color: #F6F6F6;
+	color: black;
+}
+
+.city-image {
+	background-image:url("http://open.az/uploads/posts/2011-07/1311576109_8b4c49e21fb4.jpg");
+	font-size: 20pt;
+}
+
+.tile-list a {
+	color: white;
+	text-decoration: none;
+}
+
+ul.tile-list li {
+	list-style-type: disc;
+}
+
+.tile-list li{
+	margin-bottom: 5px;
+	margin-left: 10px;
+}
+
+ol.tile-list li {
+	list-style-type: decimal;	
+}
+
+.event-hours {
+	font-size: 10pt;
+	font-style: italic;
+	text-align: right;
+	margin-right: 10px;
+}
+
+.event-date {
+	margin-top: 40px;
+}
+
+.event-day {
+	font-size: 55pt;
+}
+
+.chart-total {
+	font-size: 30pt;
+	text-align: right;
+}
+
+#users-table {
+	margin-top: 10px auto;
+	font-weight: normal;
+	width: 100%;
+}
+
+#users-table th {
+	border-bottom: 1px solid #F6F6F6;
+	padding: 2px;
+	text-align: center;
+}
+
+#users-table td {
+	padding: 2px;
+	text-align: center;
+}

@@ -68,12 +68,12 @@ h2 {
     font-size: 20pt;
 }
 
-#main-container {
-    max-width: 900px;
-    margin: 0 auto;
-}
-
 .chart-total {
     font-size: 30pt;
     text-align:right;
+}
+
+#main-container {
+    max-width: 900px;
+    margin: 0 auto;
 }
