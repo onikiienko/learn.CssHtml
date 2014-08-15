@@ -8,7 +8,9 @@ body {
 .jumbotron {
 	text-align: center;
 	background-image: url(../images/background.jpg);
+	background-position: -50px;
 	font-weight: 100;
+	color: white;
 }
 
 .jumbotron h1{
